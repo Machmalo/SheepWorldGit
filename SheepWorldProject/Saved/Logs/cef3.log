@@ -1,8 +1,7 @@
-[7164:25108:0506/210916.961:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7164:19064:0506/210917.025:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7164:25108:0506/210917.059:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7164:25108:0506/210922.504:ERROR:device_event_log_impl.cc(196)] [21:09:22.503] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[7164:24120:0506/210925.875:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14432:15944:0506/210925.943:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7AE6DDD8D01E6D8481E00A8053270F11 will be ignored
-[28268:13876:0506/210926.835:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-AA5B69A1CC5F8281F74EBA1359C415E5 will be ignored
-[7164:25108:0506/235417.888:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26768:17500:0507/002950.452:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26768:23196:0507/002950.505:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26768:17500:0507/002950.537:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26768:17500:0507/002957.748:ERROR:device_event_log_impl.cc(196)] [00:29:57.500] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[15264:12268:0507/002957.854:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8C6393DEC99020EE872E8CA7C23B26C5 will be ignored
+[26768:13120:0507/002959.028:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26768:17500:0507/003054.710:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
